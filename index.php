@@ -11,6 +11,11 @@
 <body>
   <h1>Coba Git Remote</h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, tempore?</p>
+  <ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+  </ul>
 </body>
 
 </html>
